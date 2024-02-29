@@ -1,0 +1,4 @@
+
+api:
+  holiday:
+    endpoint: /v1/holiday
